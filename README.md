@@ -1,4 +1,4 @@
-![how-do-i-develop-an-ondemand-handyman-app-like-uber](https://github.com/migrateshop/hailo-clone/assets/77200601/02b288be-00f4-4515-a62f-6ac3465c2eff)
+![hailo-clone-script-migrateshop](https://github.com/migrateshop/hailo-clone/assets/77200601/51c25ab3-2274-4692-8a2c-536482d5e2a5)
 
 
 <h1 align="center"> Full-Stack Hailo Clone to Kickstart Your Profitable Business </h1> 
